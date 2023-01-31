@@ -12,22 +12,11 @@ When I'm not coding, you can find me practicing karate 🥋, playing video games
 ## 🛠 Skills
 
 #### Backend:
-- Node.js
-- Express
-- TypeScript
-- REST APIs
-- Firebase
-- MongoDB
-- PostgreSQL
+Node.js, Express, TypeScript, REST APIs, Firebase, MongoDB, PostgreSQL
 
 #### Frontend:
-- React/React Native
-- JS
-- TypeScript
-- HTML5
-- CSS3
-- Bootstrap
-- Redux
+React/React Native, JS, TypeScript, HTML5, CSS3, Bootstrap, Redux
+
 ## 👾 Currently
 #### 🧑🏽‍💻 working on...
 - a mental health API
