@@ -1,16 +1,55 @@
-### Hi there 👋
+# Hi! I'm Dakota (they/she) 👋🏽
 
-<!--
-**dakotafabro/dakotafabro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌈 About Me
+Fullstack software engineer with background in education with a preference for backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not coding, you can find me practicing karate 🥋, playing video games (sometimes I play God of War 🪓, sometimes I play Stardew 🧑🏽‍🌾. There is no in-between), cooking all kinds of food 🧑🏽‍🍳, cuddling with my pup 🐶, and spending time with my fam 👰🏻‍♀️🤵🏽🐶.
+
+
+
+## 🛠 Skills
+
+#### Backend:
+- Node.js
+- Express
+- TypeScript
+- REST APIs
+- Firebase
+- MongoDB
+- PostgreSQL
+
+#### Frontend:
+- React/React Native
+- JS
+- TypeScript
+- HTML5
+- CSS3
+- Bootstrap
+- Redux
+
+## 👾 Currently
+#### 🧑🏽‍💻 working on...
+- a mental health API
+- an app that would help others with ADHD manage their daily task load
+
+#### 🧠 learning/diving further into...
+- TypeScript
+- React Native
+- Database Architecture & Design
+- Data Structures & Algorithms (can never do too many DSA Qs)
+- APIs that humans can consume
+
+#### 📖 reading...
+- Parable of the Sower by Octavia Butler
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.dakotafabro.dev)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakotafabro)
+
+
+## Acknowledgements 👏🏽
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
