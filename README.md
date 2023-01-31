@@ -1,3 +1,4 @@
+
 # Hi! I'm Dakota (they/she) 👋🏽
 
 
@@ -10,23 +11,16 @@ When I'm not coding, you can find me practicing karate 🥋, playing video games
 
 ## 🛠 Skills
 
-#### Backend:
-- Node.js
-- Express
-- TypeScript
-- REST APIs
-- Firebase
-- MongoDB
-- PostgreSQL
+| Backend  | Frontend|
+| ------------- | ------------- |
+| Node.js | React / React Native |
+| Express  | JS  |
+| TypeScript  | TypeScript |
+| REST APIs  | HTML5 |
+| Firebase  | CSS3|
+| MongoDB  | Bootstrap |
+| PostgreSQL  | Redux |
 
-#### Frontend:
-- React/React Native
-- JS
-- TypeScript
-- HTML5
-- CSS3
-- Bootstrap
-- Redux
 
 ## 👾 Currently
 #### 🧑🏽‍💻 working on...
@@ -52,4 +46,3 @@ When I'm not coding, you can find me practicing karate 🥋, playing video games
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
