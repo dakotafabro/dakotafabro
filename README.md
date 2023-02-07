@@ -3,7 +3,7 @@
 
 
 ## 🌈 About Me
-Fullstack software engineer with background in education with a preference for backend development.
+Fullstack software engineer with a background in education with a preference for backend development.
 
 When I'm not coding, you can find me practicing karate 🥋, playing video games (sometimes I play God of War 🪓, sometimes I play Stardew 🧑🏽‍🌾. There is no in-between), cooking all kinds of food 🧑🏽‍🍳, cuddling with my pup 🐶, connecting with friends 🫂, or spending time with my fam 👰🏻‍♀️🤵🏽🐶.
 
