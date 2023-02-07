@@ -21,6 +21,7 @@ React/React Native, JS, TypeScript, HTML5, CSS3, Bootstrap, Redux
 #### 🧑🏽‍💻 working on...
 - a mental health API
 - an app that would help others with ADHD manage their daily task load
+- an educational tool that would improve existing school CRMs
 
 #### 🧠 learning/diving further into...
 - TypeScript
