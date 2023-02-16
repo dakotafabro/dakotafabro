@@ -35,6 +35,7 @@ React/React Native, JS, TypeScript, HTML5, CSS3, Bootstrap, Redux
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.dakotafabro.dev)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakotafabro)
+[![resume](https://img.shields.io/badge/-RESUME-orange)]([https://www.linkedin.com/in/dakotafabro](https://docs.google.com/document/d/10OzRC8XUPBYPkZ7aDYQRRWllpPj3O6pSpGE0Seh6fAY/edit?usp=sharing))
 
 
 ## Acknowledgements 👏🏽
