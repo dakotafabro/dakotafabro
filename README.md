@@ -19,6 +19,7 @@ React/React Native, JS, TypeScript, HTML5, CSS3, Bootstrap, Redux
 
 ## 👾 Currently
 #### 🧑🏽‍💻 working on...
+- a LinkedIn course on building an API using Node.js, TypeScript, and Express
 - a mental health API
 - an app that would help others with ADHD manage their daily task load
 - an online tool that helps people structure an effective response in social or relational conflict
