@@ -1,5 +1,5 @@
 
-# Hi! I'm Dakota (they/she) 👋🏽
+# Hi! I'm Dakota (they/them) 👋🏽
 
 
 ## 🌈 About Me
