@@ -3,7 +3,7 @@
 
 
 ## 🌈 About Me
-Fullstack software engineer with a background in education with a preference for backend development.
+Full-Stack Dev @ Outright || Educator || Mental Health Advocate 🧠💛
 
 When I'm not coding, you can find me practicing karate 🥋, lifting weights 💪🏽, playing video games (sometimes I play God of War 🪓, sometimes I play Stardew 🧑🏽‍🌾. There is no in-between), cooking all kinds of food 🧑🏽‍🍳, cuddling with my pup 🐶, connecting with friends 🫂, or spending time with my fam 👰🏻‍♀️🤵🏽🐶.
 
@@ -23,14 +23,14 @@ React/React Native, JS, TypeScript, HTML5, CSS3, Bootstrap, Redux
 - a mental health API
 - an app that would help others with ADHD manage their daily task load
 - an online tool that helps people structure an effective response in social or relational conflict
-- an educational tool that would improve existing school CRMs
+- Data Analytics Professional Google Certificate
 
 #### 🧠 learning/diving further into...
 - TypeScript
 - React Native
 - Database Architecture & Design
-- Data Structures & Algorithms (can never do too many DSA Qs)
-- APIs that humans can consume
+- GraphQL
+- Data Viz
 
 #### 📖 reading...
 - Parable of the Sower by Octavia Butler
