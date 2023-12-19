@@ -5,7 +5,7 @@
 ## 🌈 About Me
 Full-Stack Dev @ Outright || Educator || Mental Health Advocate 🧠💛
 
-When I'm not coding, you can find me practicing karate 🥋, lifting weights 💪🏽, playing video games (sometimes I play God of War 🪓, sometimes I play Stardew 🧑🏽‍🌾. There is no in-between), cooking all kinds of food 🧑🏽‍🍳, cuddling with my pup 🐶, connecting with friends 🫂, or spending time with my fam 👰🏻‍♀️🤵🏽🐶.
+When I'm not coding, you can find me practicing karate 🥋, lifting weights 💪🏽, playing video games (sometimes I play God of War 🪓, sometimes I play Stardew 🧑🏽‍🌾. There is no in-between), cooking all kinds of food 🧑🏽‍🍳, cuddling with my pup 🐶, or travelling to cool places!
 
 
 
