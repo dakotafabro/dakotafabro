@@ -7,19 +7,9 @@ Full-Stack Dev @ Outright || Educator || Mental Health Advocate 🧠💛
 
 When I'm not coding, you can find me practicing karate 🥋, lifting weights 💪🏽, playing video games (sometimes I play God of War 🪓, sometimes I play Stardew 🧑🏽‍🌾. There is no in-between), cooking all kinds of food 🧑🏽‍🍳, cuddling with my pup 🐶, or travelling to cool places!
 
-
-
-## 🛠 Skills
-
-#### Backend:
-Node.js, Express, TypeScript, REST APIs, Firebase, MongoDB, PostgreSQL
-
-#### Frontend:
-React/React Native, JS, TypeScript, HTML5, CSS3, Bootstrap, Redux
-
 ## 👾 Currently
 #### 🧑🏽‍💻 working on...
-- a LinkedIn course on building an API using Node.js, TypeScript, and Express
+- promoting my recently published LinkedIn course on building an API using Node.js, TypeScript, and Express
 - a mental health API
 - an app that would help others with ADHD manage their daily task load
 - an online tool that helps people structure an effective response in social or relational conflict
