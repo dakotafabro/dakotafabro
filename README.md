@@ -9,22 +9,19 @@ When I'm not coding, you can find me practicing karate 🥋, lifting weights �
 
 ## 👾 Currently
 #### 🧑🏽‍💻 working on...
-- promoting my recently published LinkedIn course on building an API using Node.js, TypeScript, and Express
-- a mental health API
+- second LinkedIn course on building fullstack sites with Next.js
 - an app that would help others with ADHD manage their daily task load
-- an online tool that helps people structure an effective response in social or relational conflict
 - Data Analytics Professional Google Certificate
 
 #### 🧠 learning/diving further into...
-- TypeScript
 - React Native
 - Database Architecture & Design
 - GraphQL
 - Data Viz
 
 #### 📖 reading...
-- Parable of the Sower by Octavia Butler
-- Legends & Lattes by Travis Baldree
+- The Alchemist by Paulo Coehlo
+- Children of Blood and Bone by Tomi Ademyemi
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dakotafabrodev.vercel.app/)
