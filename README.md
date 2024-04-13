@@ -24,7 +24,7 @@ When I'm not coding, you can find me practicing karate 🥋, lifting weights �
 - Children of Blood and Bone by Tomi Ademyemi
 
 ## 🔗 Links
-[[!gumroad](Gumroad Shop)](https://dakotafabrodev.gumroad.com/)
+![Static Badge](https://img.shields.io/badge/GUMROAD-shop-orange)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dakotafabro.dev/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakotafabro)
 
