@@ -3,7 +3,7 @@
 
 
 ## 🌈 About Me
-Full-Stack Dev @ Outright || Educator || Mental Health Advocate 🧠💛
+Full-Stack Dev || Educator || Mental Health Advocate 🧠💛
 
 When I'm not coding, you can find me practicing karate 🥋, throwing around a kettlebell (or two) 💪🏽, playing video games (sometimes I play God of War 🪓, sometimes I play Stardew 🧑🏽‍🌾. There is no in-between), cooking all kinds of food 🧑🏽‍🍳, cuddling with my pup 🐶, or travelling to cool places!
 
@@ -11,11 +11,12 @@ When I'm not coding, you can find me practicing karate 🥋, throwing around a k
 #### 🧑🏽‍💻 working on...
 - Creating content for my recent podcast [Doggie Lessons](https://rss.com/podcasts/doggie-lessons/)
 - a React Native app that helps ADHD / Neurodivergent people manage their daily task loads and admin life things
+- a Haskell app that provides tarot readers more useful information and/or context during their readings
 
 #### 🧠 learning/diving further into...
 - React Native
-- Database Architecture & Design
-- Software Architecture & Systems Design
+- Haskell
+- Kubernetes
 
 #### 📖 reading...
 - The Alchemist by Paulo Coehlo
