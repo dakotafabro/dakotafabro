@@ -11,7 +11,7 @@ When I'm not coding, you can find me practicing karate 🥋, throwing around a k
 #### 🧑🏽‍💻 working on...
 - Creating content for my recent podcast [Doggie Lessons](https://rss.com/podcasts/doggie-lessons/)
 - a React Native app that helps ADHD / Neurodivergent people manage their daily task loads and admin life things
-- a Haskell app that provides tarot readers more useful information and/or context during their readings
+- a [Haskell app](https://github.com/dakotafabro/arcana-engine-cli) that provides tarot readers more useful information and/or context during their readings
 
 #### 🧠 learning/diving further into...
 - React Native
