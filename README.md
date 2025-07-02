@@ -11,16 +11,16 @@ When I'm not coding, you can find me throwing around a kettlebell (or two) 💪�
 #### 🧑🏽‍💻 working on...
 - a [Haskell app](https://github.com/dakotafabro/arcana-engine-cli) that provides tarot readers more useful information and/or context during their readings
 - a React Native app that helps ADHD / Neurodivergent people manage their daily task loads and admin life things
-- writing a book of essays about life lessons from the past few years that I've integrated into how I move in the world
+- writing a book of essays on life lessons from the past few years I've integrated into how I move in the world
 - reviving my podcast [Doggie Lessons](https://rss.com/podcasts/doggie-lessons/)
 
-#### 🧠 Learning/Diving further into...
+#### 🧠 learning/Diving further into...
 - React Native
 - Haskell
 - Go
 - making AI more accessible and usable
 
-#### 📖 Currently reading...
+#### 📖 reading...
 - The Alchemist by Paulo Coehlo
 - Way of the Ancient Healer by Virgil Mayor Apostol
 
