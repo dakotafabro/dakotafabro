@@ -5,22 +5,24 @@
 ## 🌈 About Me
 Full-Stack Dev || Educator || Mental Health Advocate 🧠💛
 
-When I'm not coding, you can find me practicing karate 🥋, throwing around a kettlebell (or two) 💪🏽, playing video games (sometimes I play God of War 🪓, sometimes I play Stardew 🧑🏽‍🌾. There is no in-between), cooking all kinds of food 🧑🏽‍🍳, cuddling with my pup 🐶, or travelling to cool places!
+When I'm not coding, you can find me throwing around a kettlebell (or two) 💪🏽, playing video games (sometimes I play God of War 🪓, sometimes I play Stardew 🧑🏽‍🌾, other times I play Fortnite 🔫), cooking all kinds of food 🧑🏽‍🍳, cuddling with pup 🐶, staring at the moon 🌙, or spending time with the people I care about 💛.
 
 ## 👾 Currently
 #### 🧑🏽‍💻 working on...
-- Creating content for my recent podcast [Doggie Lessons](https://rss.com/podcasts/doggie-lessons/)
-- a React Native app that helps ADHD / Neurodivergent people manage their daily task loads and admin life things
 - a [Haskell app](https://github.com/dakotafabro/arcana-engine-cli) that provides tarot readers more useful information and/or context during their readings
+- a React Native app that helps ADHD / Neurodivergent people manage their daily task loads and admin life things
+- writing a book of essays about life lessons from the past few years that I've integrated into how I move in the world
+- reviving my podcast [Doggie Lessons](https://rss.com/podcasts/doggie-lessons/)
 
-#### 🧠 learning/diving further into...
+#### 🧠 Learning/Diving further into...
 - React Native
 - Haskell
-- Kubernetes
+- Go
+- making AI more accessible and usable
 
-#### 📖 reading...
+#### 📖 Currently reading...
 - The Alchemist by Paulo Coehlo
-- Children of Blood and Bone by Tomi Ademyemi
+- Way of the Ancient Healer by Virgil Mayor Apostol
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dakotafabro.dev/)
