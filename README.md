@@ -8,14 +8,14 @@ Founder of eleventh house studios & Fullstack AI Product Engineer
 When I'm not coding, you can find me throwing around a kettlebell (or two) 💪🏽, playing video games (sometimes I play God of War 🪓, sometimes I play Stardew 🧑🏽‍🌾, other times I play Fortnite 🔫), cooking all kinds of food 🧑🏽‍🍳, cuddling with pup 🐶, staring at the moon 🌙, or spending time with the people I care about 💛.
 
 ## 👾 Currently
-#### 🧑🏽‍💻 working on...
+#### 🧑🏽‍💻 working on:
 - a mobile app that provides tarot readers more useful information and/or context during their readings
 - a React Native app that helps ADHD / Neurodivergent people manage their daily task loads and admin life things
 
-#### 🧠 learning/Diving further into...
-- React Native
-- Product Engineering
-- making AI more accessible and usable
+#### 🧠 researching:
+- How AI shapes human cognition and self-perception
+- The relationship between AI and creativity
+- Agentic AI Modeling
 
 #### 📖 reading...
 - The Alchemist by Paulo Coehlo
