@@ -3,7 +3,9 @@
 
 
 ## 🤙🏽 About Me
-Founder of eleventh house studios & Fullstack AI Product Engineer
+Founder of eleventh house studios,
+TIDAL Product Engineer,
+Block DevRel Advocate
 
 When I'm not coding, you can find me throwing around a kettlebell (or two) 💪🏽, playing video games (sometimes I play God of War 🪓, sometimes I play Stardew 🧑🏽‍🌾, other times I play Fortnite 🔫), cooking all kinds of food 🧑🏽‍🍳, cuddling with pup 🐶, staring at the moon 🌙, or spending time with the people I care about 💛.
 
