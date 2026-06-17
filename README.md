@@ -1,28 +1,34 @@
+# Dakota Fabro, B.Psy, M.Ed, M.Th (they/them)
 
-# Hi! I'm Dakota (they/them) 👋🏽
+Software Engineer at [TIDAL](https://tidal.com) (Block). Agentic AI researcher. Author. Inventor. Building tools for artist sovereignty and studying how humans and AI systems collaborate at scale.
 
+I move between lenses: engineer (shipping cross-platform product at TIDAL), researcher (measuring human-AI collaboration maturity), inventor (frameworks for agentic orchestration and ontological diagnostics), author (published in philosophy of technology), artist (interactive installations exploring self-reflection), and human (kettlebells, cooking, moon-gazing, pup cuddles).
 
-## 🤙🏽 About Me
-Founder of eleventh house studios,
-TIDAL Product Engineer,
-Block DevRel Advocate
+**👾 Currently**
 
-When I'm not coding, you can find me throwing around a kettlebell (or two) 💪🏽, playing video games (sometimes I play God of War 🪓, sometimes I play Stardew 🧑🏽‍🌾, other times I play Fortnite 🔫), cooking all kinds of food 🧑🏽‍🍳, cuddling with pup 🐶, staring at the moon 🌙, or spending time with the people I care about 💛.
+🧑🏽‍💻 building:
+- Artist commerce and uploads at TIDAL (Android primary, cross-platform reviewer)
+- Agentic workflows that treat AI agents as collaborative partners, not replacements
 
-## 👾 Currently
-#### 🧑🏽‍💻 working on:
-- a mobile app that provides tarot readers more useful information and/or context during their readings
-- a React Native app that helps ADHD / Neurodivergent people manage their daily task loads and admin life things
+🧠 researching:
+- Three Dimensions of AI Collaboration Maturity (DOK, ADT, Impact Efficiency)
+- Intent compression as a signal of human-AI fluency
+- The Ontological Footprint Framework (how technology reshapes human experience at scale)
 
-#### 🧠 researching:
-- How AI shapes human cognition and self-perception
-- The relationship between AI and creativity
-- Agentic AI Modeling
+✍🏽 writing:
+- "Three Dimensions of AI Collaboration Maturity" (empirical framework, 97 data points, arXiv-bound)
+- "The Ontological Footprint Framework" (submitted to Philosophy & Technology, Springer)
 
-#### 📖 reading...
-- The Alchemist by Paulo Coehlo
-- Way of the Ancient Healer by Virgil Mayor Apostol
+🎨 making:
+- Mirror: contemplative AI installation (sacred geometry from lived experience)
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dakotafabro.dev/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakotafabro)
+📖 reading:
+- *The Bitcoin Standard* by Saifedean Ammous
+
+**🌙 Outside the editor**
+
+Kettlebells 💪🏽. Cooking without recipes 🧑🏽‍🍳. God of War or Stardew depending on the energy 🎮. Staring at the moon. Time with the people I care about 💛.
+
+**🔗 Links**
+
+[portfolio](https://dakotafabro.com) | [linkedin](https://linkedin.com/in/dakotafabro)
