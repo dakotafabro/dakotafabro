@@ -7,7 +7,7 @@ I move between lenses: engineer (shipping cross-platform product at TIDAL), rese
 **👾 Currently**
 
 🧑🏽‍💻 building:
-- Artist commerce and uploads at TIDAL (Android primary, cross-platform reviewer)
+- very cool, top secret things @ TIDAL (Android)
 - Agentic workflows that treat AI agents as collaborative partners, not replacements
 
 🧠 researching:
